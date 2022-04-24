@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\HotelTask1\HotelTask1\bin\Debug\netcoreapp3.1\HotelTask1.exe
+C:\Users\ASUS\source\repos\HotelTask1\HotelTask1\bin\Debug\netcoreapp3.1\HotelTask1.deps.json
+C:\Users\ASUS\source\repos\HotelTask1\HotelTask1\bin\Debug\netcoreapp3.1\HotelTask1.runtimeconfig.json
+C:\Users\ASUS\source\repos\HotelTask1\HotelTask1\bin\Debug\netcoreapp3.1\HotelTask1.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\HotelTask1\HotelTask1\bin\Debug\netcoreapp3.1\HotelTask1.dll
+C:\Users\ASUS\source\repos\HotelTask1\HotelTask1\bin\Debug\netcoreapp3.1\HotelTask1.pdb
+C:\Users\ASUS\source\repos\HotelTask1\HotelTask1\obj\Debug\netcoreapp3.1\HotelTask1.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\HotelTask1\HotelTask1\obj\Debug\netcoreapp3.1\HotelTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\HotelTask1\HotelTask1\obj\Debug\netcoreapp3.1\HotelTask1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\HotelTask1\HotelTask1\obj\Debug\netcoreapp3.1\HotelTask1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\HotelTask1\HotelTask1\obj\Debug\netcoreapp3.1\HotelTask1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HotelTask1\HotelTask1\obj\Debug\netcoreapp3.1\HotelTask1.dll
+C:\Users\ASUS\source\repos\HotelTask1\HotelTask1\obj\Debug\netcoreapp3.1\HotelTask1.pdb
+C:\Users\ASUS\source\repos\HotelTask1\HotelTask1\obj\Debug\netcoreapp3.1\HotelTask1.genruntimeconfig.cache
